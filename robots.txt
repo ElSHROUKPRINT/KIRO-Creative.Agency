@@ -1,0 +1,5 @@
+# غيّر السطر ده لدومينك الحقيقي بعد ما تحجزه
+Sitemap: https://www.kiro-agency.example/sitemap.xml
+
+User-agent: *
+Allow: /
